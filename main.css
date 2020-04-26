@@ -1,0 +1,27 @@
+
+.contenedor-predicas{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media only screen and (min-width: 720px){
+    div.predica{
+        width: 33.3%;
+    }
+}
+img.imgPastor{
+    width: 85%;     
+}
+@media only screen and (min-width: 720px){
+    img.imgPastor{
+        width: 70%;
+    }
+}
+
+h2.titulo{
+    font-weight: 500;
+    text-transform: uppercase;
+}
+div.info-predica{
+    
+}
