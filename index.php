@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv=”Content-Type” content=”text/html; charset=UTF-8″ />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Redentor Mx. Prédicas</title>
+    <title>El Redentor Mx. Pr&eacute;dicas</title>
     <link rel="icon" type="image/webp" href="logo1.jpg">
     <link rel="stylesheet" href="normalize.css">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet">
@@ -37,8 +37,8 @@
         }
         mysqli_close($conexion); 
     ?>
-    <h1>Prédicas Pastor Francisco Vázquez</h1>
-    <h2>"Teme a Dios y guarda sus mandamientos" <br> Eclesiastés 12:13 </h2>
+    <h1>Pr&eacute;dicas Pastor Francisco V&aacute;zquez</h1>
+    <h2>"Teme a Dios y guarda sus mandamientos" <br> Eclesiast&eacute;s 12:13 </h2>
     <div class="contenedor-predicas">        
         <?php foreach($arrayPredicas as $predica){ ?>
 
